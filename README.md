@@ -1,6 +1,6 @@
 "Harry Potter and the Philosopher's Stone" is apparently one of the most translated pieces of modern literatures. Someone on Reddit pointed out that a Brainfuck version was missing, and I felt *that* urge to waste away one hour of my life.
 
-So, here it is. Running `book.bf` will print out the full contents of the book.
+So, here it is. Running `book.bf` will print out the full contents of the book (US edition).
 
 ```
 $ curl https://raw.githubusercontent.com/neysofu/harry-potter/master/book.bf | ./brainfuck
