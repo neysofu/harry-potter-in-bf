@@ -3,7 +3,7 @@
 So, here it is. Running `book.bf` will print out the full contents of the book.
 
 ```
-$ ./brainfuck book.bf
+$ curl https://raw.githubusercontent.com/neysofu/harry-potter/master/book.bf | ./brainfuck
 Harry Potter and the Sorcerer's Stone
 
 
